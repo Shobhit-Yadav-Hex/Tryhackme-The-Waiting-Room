@@ -254,4 +254,4 @@ RC4 encrypt + base64  ->  POST /api/receipt  (HTTP 200, accepted)
 
 ---
 
-*Written by Shobhit | Cybersecurity learner, CTF and DFIR practice*
+*Written by Shubham Yadav | Cybersecurity learner, CTF and DFIR practice*
